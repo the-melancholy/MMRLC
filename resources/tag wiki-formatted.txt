@@ -1,0 +1,542 @@
+{'simulator': 'A simulator is an automated model that captures the essential logic and behaviour of a particular object.  A good simulator allows investigating the properties of the object, exploring "what-if" scenarios, or incorporating the object into a landscape interacting objects.  Simulator design often involves running probability engines over know or estimated distributions, time slicing, and state machines.  Implementations are frequently object oriented.'}
+{'hamcrest': 'Hamcrest is an open source library of constraint classes used to match objects and values, typically by other frameworks such as unit testing, mocking, or collections.'}
+{'guava-collections': "Google's Core Java Library for Java and Android development."}
+{'castor': 'Castor is an open source data binding framework.'}
+{'openpdf': 'OpenPDF is a freeware and open-source tool for viewing and modifying PDF documents and other PDF objects. It is a fork of the last non-AGPL version of iText.'}
+{'gson': "Gson is Google's open-source library for serializing and deserializing Java objects to/from JSON."}
+{'base64': 'Base64 is a set of encoding schemes that represent binary data in an ASCII string format.'}
+{'velocity-tools': 'VelocityTools is an integrated collection of Velocity subprojects and infrastructure to easily, automatically and transparently make these tools available to Velocity templates.'}
+{'snakeyaml': 'SnakeYAML is a YAML parser and emitter for the Java programming language.'}
+{'c3p0': 'c3p0 is a Java library for JDBC drivers with JNDI-bindable DataSources, including DataSources that implement Connection and Statement Pooling, as described by the jdbc3 spec and jdbc2 std extension.'}
+{'rhino': 'Mozilla Rhino is a JavaScript interpreter written in Java.'}
+{'jetty': 'Eclipse Jetty is a widely-used async Java-based HTTP server and servlet engine supporting HTTP/1.0, HTTP/1.1, HTTP/2, HTTP/3, WebSocket, UnixSocket, and FastCGI protocols.'}
+{'groovy': 'Groovy is an object-oriented programming language for the Java platform. It is a dynamic language with features similar to those of Python, Ruby, Perl and Smalltalk. It can be used as a scripting language for the Java platform.'}
+{'json': 'JSON (JavaScript Object Notation) is a serializable data interchange format that is a machine and human readable. Do not use this tag for native JavaScript objects or JavaScript object literals. Before you ask a question, validate your JSON using a JSON validator such as JSONLint (https://jsonlint.com).'}
+{'lwjgl': 'The Lightweight Java Game Library (LWJGL) allows access to high performance crossplatform libraries such as OpenGL, OpenCL and OpenAL to write state of the art 2D and 3D applications with Java.'}
+{'derby': 'Use this  tag for questions about Apache Derby, an Apache DB subproject. Derby is an open source relational database implemented entirely in Java and available under the Apache License, Version 2.0.'}
+{'htmlparser': 'HTML parsing is the process of consuming a serialization of an HTML document and producing a representation that you can work with programmatically — e.g., in order to extract data from it. The HTML specification defines a standard algorithm for parsing HTML, which is implemented in all major browsers.'}
+{'threetenbp': 'ThreeTen-Backport is the backport of JSR-310 to Java SE 7. Questions about "java.time" in Java SE 8 should use the [java-time] tag. Only questions specifically about the backport should use this tag.'}
+{'jsr305': '(Dormant JSR) Annotations for Software Defect Detection'}
+{'hsqldb': 'HSQLDB (HyperSQL Database) is a relational database management system. It is written in Java.'}
+{'cglib': 'CGLib (Code Generation Library) is a run time code generation library for the Java platform licensed under the Apache 2.0 license.'}
+{'velocity': 'Apache Velocity is a Java-based template engine.  It can be used to dynamically generate web pages, email messages, source code, or any other text file.'}
+{'guava': "Google's Core Java Library for Java and Android development."}
+{'annotations': 'In programming, annotations are used to add information to a code element which cannot be expressed by the type system.'}
+{'wss4j': 'The Apache WSS4J™ is a Java implementation of the primary security standards for Web Services, namely the OASIS Web Services Security (WS-Security) specifications from the OASIS Web Services Security TC.'}
+{'mybatis': 'MyBatis is a framework for mapping objects to relational databases with an emphasis on high performance and simplicity. XML descriptors or annotations couple the objects to SQL statements or stored procedures.'}
+{'ant': "Apache Ant (formerly Jakarta Ant) is a declarative, XML-based build tool created originally for Java projects.  It provides a rich set of standard tasks for performing most common build operations, such as compiling Java source, building archives and running tests.  Ant's functionality can be extended through custom tasks and macros."}
+{'neo4j': 'Neo4j is an open-source graph database (GDB) well suited to connected data. Please mention your exact version of Neo4j when asking questions. You can use it for recommendation engines, fraud detection, graph-based search, network ops/security, and many other user cases. The database is accessed via official drivers in Java, JavaScript, Python and .NET, or community-contributed drivers in PHP, Ruby, R, Golang, Elixir, Swift and more.'}
+{'swingx': 'Contains extensions to the Java Swing GUI toolkit, including new and enhanced components that provide functionality commonly required by rich client applications.'}
+{'antlr': 'ANTLR, ANother Tool for Language Recognition, is a language tool that provides a framework for constructing recognizers, interpreters, compilers, and translators from grammatical descriptions containing actions in a variety of target languages.'}
+{'objenesis': 'Objenesis is a small Java library that serves one purpose of instantiating a new object of a particular class.'}
+{'cassandra-driver': 'Apache Cassandra  drivers for variety of programming languages'}
+{'dom4j': 'dom4j is an open source library for working with XML, XPath and XSLT on the Java platform using the Java Collections Framework and with full support for DOM, SAX and JAXP.'}
+{'thymeleaf': 'Thymeleaf is an XML/XHTML/HTML5 template engine (extensible to other formats) that can work both in web and non-web environments. It is better suited for serving XHTML/HTML5 at the view layer of web applications, it can process any XML file even in offline environments.\r\n\r\nIt provides an optional module for integration with Spring MVC, so that you can use it as a complete substitute of JSP in your applications made with this technology, even with HTML5.'}
+{'jackson-databind': 'Use this tag for questions related to jackson-databind library providing the data-binding functionality and tree-model for Jackson.'}
+{'spring-test': '`spring-test` is the testing module of the Spring Framework, providing support for unit and integration testing with JUnit and TestNG, including various mocks for unit testing and the Spring TestContext Framework & the Spring MVC Test Framework for integration testing Spring-based applications.'}
+{'opencsv': 'opencsv is a simple csv (comma-separated values) parser library for Java'}
+{'easymock': 'Easymock is a mocking framework for Java.'}
+{'jmockit': 'JMockit is a java framework for mocking objects in JUnit testing. It uses the instrumentation apis that modify the bytecode during run time to dynamically create classes. It allows developers to write unit tests without the testability issues typically found with other mocking APIs. Tests can be written that will mock final classes, static methods, constructors, and so on. The API also provides advanced support for integration tests and code coverage tool.'}
+{'stax': "StAX stands for Streaming API for XML. It's a streaming Java-based, event-driven, pull-parsing API for reading and writing XML documents."}
+{'mapdb': 'MapDB provides concurrent Maps, Sets and Queues backed by disk storage or off-heap memory'}
+{'stringtemplate': 'A templating language which strictly enforces model/view separation'}
+{'xalan': 'Xalan is an open source XSLT 1.0 processor with implementations in Java and C++.'}
+{'jackson-dataformat-xml': 'Data format extension for Jackson to offer alternative support for serializing POJOs as XML and deserializing XML as pojos.'}
+{'moshi': 'Moshi is a JSON library for Android and Java. It makes it easy to parse JSON into Java objects:'}
+{'jsoup': 'Jsoup is a Java HTML parser for extracting and manipulating HTML data, using the best of DOM, CSS, and jQuery-like methods.'}
+{'webtest': 'WebTest helps you test your WSGI-based web applications, which includes most actively developed Python web frameworks.'}
+{'log4j': 'log4j is a popular Java-based logging utility. It is a project of the Apache Software Foundation and is licensed under The Apache Software License, Version 2.0'}
+{'netty': 'An open source asynchronous event-driven network application framework written in Java. It is a NIO client server framework which enables quick and easy development of network applications such as protocol servers and clients'}
+{'okhttp': 'An HTTP+HTTP/2 client for Android and Java applications.'}
+{'guice-persist': 'Guice Persist provides abstractions for working with datastores and persistence providers in Guice applications. It works in a normal Java desktop or server application, inside a plain Servlet environment, or even a Java EE container.'}
+{'properties': 'A property, in some object-oriented programming languages, is a special sort of class member, intermediate between a field (or data member) and a method. Properties are read and written like fields, but property reads and writes are (usually) translated to get and set method calls.'}
+{'eclipse-collections': 'Questions related to Eclipse Collections, which is a collections framework for java and contains some improved collection types such as ListIterable, BiMap, Bag and MultiMap.'}
+{'mockito-kotlin': 'a library for Kotlin that provides helper functions to work with Mockito, a popular mock framework.'}
+{'openjpa': 'OpenJPA is an open source implementation of the Java Persistence API specification. It is an object-relational mapping (ORM) solution for the Java language, which simplifies storing objects in databases. It is open source software distributed under the Apache 2.0 Licence.'}
+{'rest': 'REST (Representational State Transfer) is a style of software architecture for distributed hypermedia systems such as the World Wide Web. It has increased in popularity relative to RPC architectures such as SOAP due to the intrinsic de-coupling of client from server that comes from having a uniform interface between heterogeneous systems.'}
+{'concurrent': 'In computer science, concurrency is a property of systems in which multiple computations can be performed in overlapping time periods. The computations may be executing on multiple cores in the same chip, preemptively time-shared threads on the same processor, or executed on physically separated processors.'}
+{'la4j': 'la4j (Linear Algebra for Java) is an open source Java library that provides Linear Algebra primitives (matrices and vectors) and algorithms.'}
+{'jongo': 'Jongo allows to query in Java as in Mongo shell; unmarshalling results into Java objects (by default with Jackson).'}
+{'fest-assert': 'FEST is a collection of libraries whose mission is to simplify software testing. It is composed of various modules, which can be used with TestNG or JUnit. FEST-Assert provides a fluent interface for assertions. This means that you can use your development environments code completion features to build your asserts.'}
+{'jettison': 'Jettison is a collection of Java APIs (like STaX and DOM) which read and write JSON.'}
+{'selenium-server': 'Selenium component for running Selenium-RC and Selenium-Grid'}
+{'jts': 'The JTS Topology Suite is an open source API of 2D spatial predicates and functions written in Java.'}
+{'picasso': 'Picasso is an open source powerful and dynamic image caching and downloading library by Square.'}
+{'freemarker': 'Apache FreeMarker™ is a template engine: a Java library to generate text output (HTML web pages, e-mails, configuration files, source code, etc.) based on templates and changing data.'}
+{'eclipselink': 'EclipseLink delivers a comprehensive open-source Java persistence solution. EclipseLink focuses on standards (JPA, JAXB, SDO) with advanced features, performance and scalability for enterprise software developers across data sources, formats, and containers.'}
+{'flexjson': 'Flexjson is a lightweight library for serializing and deserializing Java objects into and from JSON.'}
+{'jmock': 'For questions about using jMock. JMock is a helper framework for test-driven development and unit testing.'}
+{'pdfbox': 'The Apache PDFBox library is an open source Java tool for working with PDF documents. This project allows creation of new PDF documents, manipulation of existing documents and the ability to extract content from documents. Apache PDFBox also includes several command line utilities.'}
+{'fastutil': 'fastutil is a collection of type-specific Java classes that extend the Java Collections Framework by providing several containers, such as maps, sets, lists and prority queues, implementing the interfaces of the java.util package; it provides also big (64-bit) arrays, sets and lists, and fast, practical I/O classes for binary and text files.'}
+{'jdom': 'JDOM is an open source library for working with a Java representation of an XML document. JDOM provides a way to represent that document for easy and efficient reading, manipulation, and writing. It has a straightforward API, is a lightweight and fast, and is optimized for the Java programmer.'}
+{'ecj': 'Eclipse has implemented its own compiler called as Eclipse Compiler for Java (ECJ). This tag is for questions relating to the behaviour of that compiler.'}
+{'wiremock': 'Library used for stubbing and mocking web services.'}
+{'htmlunit': 'HtmlUnit is a "headless browser". Which means that there is no browser GUI and it does no rendering. Though it has a CSS and JS engine to simulate a real browser. Primary purpose is testing and information extraction.'}
+{'argparse4j': "Argparse4j is a command line argument parser library for Java based on Python's argparse module."}
+{'jansi': 'Jansi is a small java library that allows you to use ANSI escape codes to format your console output which works even on windows.'}
+{'picocli': 'Picocli is a command line parsing library for Java and other JVM languages. Distinguishing features: provides both a programmatic and an annotation API, usage help with ANSI colors, autocompletion on supported platforms and strong support for nested subcommands. Designed to optionally be included as source to avoid adding dependencies.'}
+{'saxon': 'Saxon is an implementation of XSLT, XQuery, XPath, and XSD. In supports the latest W3C standards including XSLT 3.0, XQuery 3.1, XPath 3.1, and XSD 1.1. There are versions for Java, .NET, and C, in both open source and commercial editions. The latest addition to the product set is Saxon-JS, an XSLT runtime which will run in most browsers.'}
+{'junit': 'Popular unit testing framework for Java and Scala. The latest version, JUnit 5, supports rich annotation-based and parameterized tests. Consider using in conjunction with the Java or Scala tag to indicate your use case.'}
+{'asm': 'Assembly language questions. Please tag the processor and/or the instruction set you are using, as well as the assembler, a valid set should be like this: ([assembly] [x86] [gnu-assembler] or [att]). Use the [.net-assembly] tag instead for .NET assemblies, [cil] for .NET assembly language, and for Java bytecode, use the tag java-bytecode-asm instead.'}
+{'bcel': 'Apache Byte Code Engineering Library, an open-source library for inspecting and manipulating Java byte code files (.class files)'}
+{'json-lib': 'JSON-lib is a Java-to-JSON binding API that serializes and deserializes JSON data to and from Java data structures.  It also includes some support for translations between XML and JSON.'}
+{'handlebars': 'Handlebars is a templating library for JavaScript.'}
+{'android': "Android is Google's mobile operating system, used for programming or developing digital devices (Smartphones, Tablets, Automobiles, TVs, Wear, Glass, IoT). For topics related to Android, use Android-specific tags such as android-intent, android-activity, android-adapter, etc. For questions other than development or programming but related to the Android framework, use this link: https://android.stackexchange.com."}
+{'maven-plugin-testing-harness': "For questions about the Maven Plugin Testing Harness. Do not use it for general questions about the usage of maven plugins. Do not use it for questions about `maven-compiler-plugin`. Do not use it for questions about configuring testing frameworks with Maven. Simple criterion: if your `pom.xml` does not contain the string `maven-plugin-testing-harness`, then you most probably shouldn't be using this tag."}
+{'reflections': 'For questions about the Java Reflections library (org.reflections.reflections) by ronmamo, which performs Java runtime metadata analysis, in the spirit of Scannotations.'}
+{'jgrapht': 'JGraphT is a free Java graph library that provides mathematical graph-theory objects and algorithms.'}
+{'sjsxp': 'Sun Java Streaming XML Parser'}
+{'xstream': 'XStream is a simple Java library to serialize objects to XML and back again.'}
+{'wicket': 'Apache Wicket, commonly referred to as Wicket, is a lightweight component-based web application framework for the Java programming language conceptually similar to JavaServer Faces and Tapestry.'}
+{'guice-servlet': "Guice's servlet extensions allow you to completely eliminate web.xml from your servlet application and take advantage of type-safe, idiomatic Java configuration of your servlet and filter components"}
+{'postgresql': 'PostgreSQL is an open-source, relational database management system (RDBMS) available for all major platforms, including Linux, UNIX, Windows and OS X. Mention your version of Postgres when asking questions.\r\nConsider dba.stackexchange.com for questions concerning the administration or advanced features.'}
+{'druid': 'Druid is a column-oriented open-source distributed data store written in Java.'}
+{'itextpdf': 'Library to create and manipulate PDF documents in Java and C#. Use this tag for code using iText versions up to 5.5.x. For iText versions from 7.0.0 onwards a separate tag "itext7" is available.  Remember to also add the tag for the language you\'re using.'}
+{'miglayout': 'MiG Layout is a free and open-source layout manager for Java Swing, SWT, JavaFX2, Fantom, Qt and other GUI toolkits.'}
+{'colt': 'A set of open source libraries for high-performance scientific computing written in Java and developed at CERN.'}
+{'elasticsearch': 'Elasticsearch is a free and open, distributed, RESTful search engine based on Lucene.'}
+{'mtj': 'MTJ (Matrix Toolkit Java) is a JNI-based Java wrapper for C++ library for computing numerical linear algebra.'}
+{'javacc': 'JavaCC - the Java Compiler Compiler - is a popular parser generator and lexical analyzer generator for Java and C++.'}
+{'slf4j-api': "Simple Logging Facade for Java (SLF4J) serves as a simple facade or abstraction layer for various logging frameworks. Please also include a tag for the actual logging framework you're using if you are attempting to configure logging for your application."}
+{'spring-orm': 'Spring Framework Object Relational Mapping (ORM) Data Access'}
+{'guice': 'Guice is a lightweight dependency injection framework for Java.'}
+{'antlr4': 'Version 4 of ANother Tool for Language Recognition (ANTLR), a flexible lexer/parser generator. ANTLR4 features an enhanced adaptive LL(*) parsing algorithm, that improves on the simpler LL(*) algorithm used in ANTLR3.'}
+{'findbugs': 'A program which uses static analysis to look for bugs in Java code.'}
+{'fastjson': 'A fast JSON parser/generator for Java, or a smallest, fastest polymorphic JSON serializer for C#.'}
+{'args4j': 'arg4j makes it easy to parse command line options/arguments in your CUI application.'}
+{'byte-buddy': 'Byte Buddy is a code generation and manipulation library for creating and modifying Java classes during the runtime of a Java application and without the help of a compiler. Byte Buddy allows the creation of arbitrary classes and is not limited to implementing interfaces for the creation of runtime proxies. Furthermore, Byte Buddy offers a convenient API for changing classes either manually, using a Java agent or during a build.'}
+{'jackson-dataformat-yaml': 'Support for reading and writing YAML-encoded data via Jackson abstractions.'}
+{'retrofit': 'Retrofit is a type-safe REST client for Android and Java by Square, Inc.'}
+{'hibernate-validator': 'Hibernate Validator is the reference implementation for JSR 380 - Bean Validation 2.0'}
+{'checkstyle': 'Checkstyle is a static analysis tool for checking compliance of Java code to standards. It can be configured with various sets of coding standards. It is integrated in various other tools, such as IDEs (like Eclipse, NetBeans or IntelliJ), Maven, Gradle, or the continuous inspection platform SonarQube.'}
+{'google-collections': "Google's Core Java Library for Java and Android development."}
+{'transport': 'Do not use. This tag has been used for everything from trucks to network transport layers. Disambiguation required.'}
+{'javassist': 'Javassist is a class library for editing bytecode in java.'}
+{'jcommander': 'A java utility for CLI parameters parsing.'}
+{'janino': 'Janino is a super-small, super-fast Java™ compiler.'}
+{'xerces': 'Xerces is a collection of software libraries for parsing, validating, serializing and manipulating XML'}
+{'itext': 'Library to create and manipulate PDF documents in Java and C#. Use this tag for code using iText versions up to 5.5.x. For iText versions from 7.0.0 onwards a separate tag "itext7" is available.  Remember to also add the tag for the language you\'re using.'}
+{'dbunit': 'DbUnit is a JUnit extension targeted at database-driven projects that, among other things, puts your database into a known state between test runs.'}
+{'xmlunit': 'XMLUnit is an open source project which enables JUnit-style assertions to be made about the content and structure of XML.'}
+{'mongo-java-driver': 'The Java driver for MongoDB'}
+{'hibernate-entitymanager': 'Hibernate EntityManager implements the programming interfaces and lifecycle rules as defined by the JPA 2.0 specification.'}
+{'jackson-dataformat-csv': 'Jackson extension for adding support for reading and writing CSV formatted data'}
+{'tomcat-jdbc': 'This tag is about tomcat and jdbc working together.'}
+{'json-simple': 'JSON.simple is a Java-to-JSON binding API that serializes and deserializes JSON data to and from Java data structures.'}
+{'scribe': 'Scribe is a simple OAuth library for Java'}
+{'spotbugs': 'SpotBugs is a program which uses static analysis to look for bugs in Java code. SpotBugs is the spiritual successor of FindBugs, carrying on from the point where it left off with support of its community.'}
+{'bytecode': '"bytecode" is a blanket term for opcodes that are consumed by a virtual machine. For example, the JVM runs bytecode stored in .class files and the CPython interpreter runs bytecode stored in .pyc files.'}
+{'avro': 'Apache Avro is a data serialization framework primarily used in Apache Hadoop.'}
+{'solr': 'Apache Solr is an open source search server based on the Lucene Java search library.'}
+{'h2': 'H2 is a relational database management system written in Java. It can be embedded in Java applications or run in the client-server mode. H2 supports regular disk-based as well as in-memory databases.'}
+{'lombok': 'Project Lombok is a tool for reducing boilerplate code in Java through annotations and compile time code generation.'}
+{'hbase': "HBase is the Hadoop database (columnar). Use it when you need random, real time read/write access to your Big Data. This project's goal is the hosting of very large tables -- billions of rows X millions of columns -- atop clusters of commodity hardware."}
+{'classmate': 'Tag for Java ClassMate library'}
+{'svenson': 'svenson is a Java5 JSON generator/parser.'}
+{'testng': 'TestNG is a testing framework focused on providing both unit and functional testing abilities in the Java programming language. It supports parallel testing, data providers, dependencies, groups and other features.'}
+{'trove4j': 'The Trove library provides high speed regular and primitive collections for Java.'}
+{'jul-to-slf4j': 'Module including a java.util.logging (jul) handler, to route all incoming records to the SLF4j API.'}
+{'mail': 'Use this tag for questions involving code to send or receive email messages. Posting to ask why the emails you send are marked as spam is off-topic for Stack Overflow.  Questions about configuration of mail servers belong on Server Fault.'}
+{'javax.persistence': 'The Jakarta/Java Persistence API (JPA) is a Java specification for accessing, persisting, and managing data between Java objects/classes and a relational database. It is part of the EJB 3.0 specification and is the industry standard approach for Object to Relational Mapping (ORM).'}
+{'httpclient': 'DO NOT USE - Use [apache-commons-httpclient], [apache-httpclient-4.x], [jetty-httpclient], [java-http-client], [dotnet-httpclient] or [angular-httpclient]'}
+{'jline': 'JLine is a Java library for handling console input. It is similar in functionality to BSD editline and GNU readline. People familiar with the readline/editline capabilities for modern shells (such as bash and tcsh) will find most of the command editing features of JLine to be familiar.'}
+{'hazelcast-jet': 'Hazelcast Jet is a distributed computing platform for low-latency stream and batch processing. It benefits from integration with Hazelcast IMDG providing fast, scalable Big Data processing that’s lightweight and embeddable.'}
+{'jooq': 'jOOQ stands for JOOQ Object Oriented Querying. jOOQ effectively combines complex SQL, typesafety, source code generation, active records, stored procedures, advanced data types, and Java in a fluent, intuitive DSL.'}
+{'ejml': 'Efficient Java Matrix Library is a linear algebra library for manipulating dense matrices'}
+{'google-http-client': 'This refers to the Google HTTP Client Library for Java.'}
+{'antlr': 'ANTLR, ANother Tool for Language Recognition, is a language tool that provides a framework for constructing recognizers, interpreters, compilers, and translators from grammatical descriptions containing actions in a variety of target languages.'}
+{'stringtemplate': 'A templating language which strictly enforces model/view separation'}
+{'args4j': 'arg4j makes it easy to parse command line options/arguments in your CUI application.'}
+{'asm': 'Assembly language questions. Please tag the processor and/or the instruction set you are using, as well as the assembler, a valid set should be like this: ([assembly] [x86] [gnu-assembler] or [att]). Use the [.net-assembly] tag instead for .NET assemblies, [cil] for .NET assembly language, and for Java bytecode, use the tag java-bytecode-asm instead.'}
+{'bcel': 'Apache Byte Code Engineering Library, an open-source library for inspecting and manipulating Java byte code files (.class files)'}
+{'castor': 'Castor is an open source data binding framework.'}
+{'cglib': 'CGLib (Code Generation Library) is a run time code generation library for the Java platform licensed under the Apache 2.0 license.'}
+{'colt': 'A set of open source libraries for high-performance scientific computing written in Java and developed at CERN.'}
+{'fastjson': 'A fast JSON parser/generator for Java, or a smallest, fastest polymorphic JSON serializer for C#.'}
+{'jcommander': 'A java utility for CLI parameters parsing.'}
+{'jackson-databind': 'Use this tag for questions related to jackson-databind library providing the data-binding functionality and tree-model for Jackson.'}
+{'json-simple': 'JSON.simple is a Java-to-JSON binding API that serializes and deserializes JSON data to and from Java data structures.'}
+{'findbugs': 'A program which uses static analysis to look for bugs in Java code.'}
+{'gson': "Gson is Google's open-source library for serializing and deserializing Java objects to/from JSON."}
+{'svenson': 'svenson is a Java5 JSON generator/parser.'}
+{'google-collections': "Google's Core Java Library for Java and Android development."}
+{'guava': "Google's Core Java Library for Java and Android development."}
+{'guice': 'Guice is a lightweight dependency injection framework for Java.'}
+{'jmockit': 'JMockit is a java framework for mocking objects in JUnit testing. It uses the instrumentation apis that modify the bytecode during run time to dynamically create classes. It allows developers to write unit tests without the testability issues typically found with other mocking APIs. Tests can be written that will mock final classes, static methods, constructors, and so on. The API also provides advanced support for integration tests and code coverage tool.'}
+{'json-simple': 'JSON.simple is a Java-to-JSON binding API that serializes and deserializes JSON data to and from Java data structures.'}
+{'h2': 'H2 is a relational database management system written in Java. It can be embedded in Java applications or run in the client-server mode. H2 supports regular disk-based as well as in-memory databases.'}
+{'itextpdf': 'Library to create and manipulate PDF documents in Java and C#. Use this tag for code using iText versions up to 5.5.x. For iText versions from 7.0.0 onwards a separate tag "itext7" is available.  Remember to also add the tag for the language you\'re using.'}
+{'itext': 'Library to create and manipulate PDF documents in Java and C#. Use this tag for code using iText versions up to 5.5.x. For iText versions from 7.0.0 onwards a separate tag "itext7" is available.  Remember to also add the tag for the language you\'re using.'}
+{'okhttp': 'An HTTP+HTTP/2 client for Android and Java applications.'}
+{'xstream': 'XStream is a simple Java library to serialize objects to XML and back again.'}
+{'concurrent': 'In computer science, concurrency is a property of systems in which multiple computations can be performed in overlapping time periods. The computations may be executing on multiple cores in the same chip, preemptively time-shared threads on the same processor, or executed on physically separated processors.'}
+{'dom4j': 'dom4j is an open source library for working with XML, XPath and XSLT on the Java platform using the Java Collections Framework and with full support for DOM, SAX and JAXP.'}
+{'easymock': 'Easymock is a mocking framework for Java.'}
+{'freemarker': 'Apache FreeMarker™ is a template engine: a Java library to generate text output (HTML web pages, e-mails, configuration files, source code, etc.) based on templates and changing data.'}
+{'hsqldb': 'HSQLDB (HyperSQL Database) is a relational database management system. It is written in Java.'}
+{'netty': 'An open source asynchronous event-driven network application framework written in Java. It is a NIO client server framework which enables quick and easy development of network applications such as protocol servers and clients'}
+{'fastutil': 'fastutil is a collection of type-specific Java classes that extend the Java Collections Framework by providing several containers, such as maps, sets, lists and prority queues, implementing the interfaces of the java.util package; it provides also big (64-bit) arrays, sets and lists, and fast, practical I/O classes for binary and text files.'}
+{'javassist': 'Javassist is a class library for editing bytecode in java.'}
+{'javassist': 'Javassist is a class library for editing bytecode in java.'}
+{'jdom': 'JDOM is an open source library for working with a Java representation of an XML document. JDOM provides a way to represent that document for easy and efficient reading, manipulation, and writing. It has a straightforward API, is a lightweight and fast, and is optimized for the Java programmer.'}
+{'jline': 'JLine is a Java library for handling console input. It is similar in functionality to BSD editline and GNU readline. People familiar with the readline/editline capabilities for modern shells (such as bash and tcsh) will find most of the command editing features of JLine to be familiar.'}
+{'jmock': 'For questions about using jMock. JMock is a helper framework for test-driven development and unit testing.'}
+{'junit': 'Popular unit testing framework for Java and Scala. The latest version, JUnit 5, supports rich annotation-based and parameterized tests. Consider using in conjunction with the Java or Scala tag to indicate your use case.'}
+{'log4j': 'log4j is a popular Java-based logging utility. It is a project of the Apache Software Foundation and is licensed under The Apache Software License, Version 2.0'}
+{'jmockit': 'JMockit is a java framework for mocking objects in JUnit testing. It uses the instrumentation apis that modify the bytecode during run time to dynamically create classes. It allows developers to write unit tests without the testability issues typically found with other mocking APIs. Tests can be written that will mock final classes, static methods, constructors, and so on. The API also provides advanced support for integration tests and code coverage tool.'}
+{'flexjson': 'Flexjson is a lightweight library for serializing and deserializing Java objects into and from JSON.'}
+{'json-lib': 'JSON-lib is a Java-to-JSON binding API that serializes and deserializes JSON data to and from Java data structures.  It also includes some support for translations between XML and JSON.'}
+{'saxon': 'Saxon is an implementation of XSLT, XQuery, XPath, and XSD. In supports the latest W3C standards including XSLT 3.0, XQuery 3.1, XPath 3.1, and XSD 1.1. There are versions for Java, .NET, and C, in both open source and commercial editions. The latest addition to the product set is Saxon-JS, an XSLT runtime which will run in most browsers.'}
+{'trove4j': 'The Trove library provides high speed regular and primitive collections for Java.'}
+{'saxon': 'Saxon is an implementation of XSLT, XQuery, XPath, and XSD. In supports the latest W3C standards including XSLT 3.0, XQuery 3.1, XPath 3.1, and XSD 1.1. There are versions for Java, .NET, and C, in both open source and commercial editions. The latest addition to the product set is Saxon-JS, an XSLT runtime which will run in most browsers.'}
+{'antlr': 'ANTLR, ANother Tool for Language Recognition, is a language tool that provides a framework for constructing recognizers, interpreters, compilers, and translators from grammatical descriptions containing actions in a variety of target languages.'}
+{'derby': 'Use this  tag for questions about Apache Derby, an Apache DB subproject. Derby is an open source relational database implemented entirely in Java and available under the Apache License, Version 2.0.'}
+{'hbase': "HBase is the Hadoop database (columnar). Use it when you need random, real time read/write access to your Big Data. This project's goal is the hosting of very large tables -- billions of rows X millions of columns -- atop clusters of commodity hardware."}
+{'httpclient': 'DO NOT USE - Use [apache-commons-httpclient], [apache-httpclient-4.x], [jetty-httpclient], [java-http-client], [dotnet-httpclient] or [angular-httpclient]'}
+{'pdfbox': 'The Apache PDFBox library is an open source Java tool for working with PDF documents. This project allows creation of new PDF documents, manipulation of existing documents and the ability to extract content from documents. Apache PDFBox also includes several command line utilities.'}
+{'velocity': 'Apache Velocity is a Java-based template engine.  It can be used to dynamically generate web pages, email messages, source code, or any other text file.'}
+{'castor': 'Castor is an open source data binding framework.'}
+{'groovy': 'Groovy is an object-oriented programming language for the Java platform. It is a dynamic language with features similar to those of Python, Ruby, Perl and Smalltalk. It can be used as a scripting language for the Java platform.'}
+{'jettison': 'Jettison is a collection of Java APIs (like STaX and DOM) which read and write JSON.'}
+{'dom4j': 'dom4j is an open source library for working with XML, XPath and XSLT on the Java platform using the Java Collections Framework and with full support for DOM, SAX and JAXP.'}
+{'easymock': 'Easymock is a mocking framework for Java.'}
+{'fest-assert': 'FEST is a collection of libraries whose mission is to simplify software testing. It is composed of various modules, which can be used with TestNG or JUnit. FEST-Assert provides a fluent interface for assertions. This means that you can use your development environments code completion features to build your asserts.'}
+{'eclipselink': 'EclipseLink delivers a comprehensive open-source Java persistence solution. EclipseLink focuses on standards (JPA, JAXB, SDO) with advanced features, performance and scalability for enterprise software developers across data sources, formats, and containers.'}
+{'elasticsearch': 'Elasticsearch is a free and open, distributed, RESTful search engine based on Lucene.'}
+{'freemarker': 'Apache FreeMarker™ is a template engine: a Java library to generate text output (HTML web pages, e-mails, configuration files, source code, etc.) based on templates and changing data.'}
+{'jansi': 'Jansi is a small java library that allows you to use ANSI escape codes to format your console output which works even on windows.'}
+{'hsqldb': 'HSQLDB (HyperSQL Database) is a relational database management system. It is written in Java.'}
+{'htmlparser': 'HTML parsing is the process of consuming a serialization of an HTML document and producing a representation that you can work with programmatically — e.g., in order to extract data from it. The HTML specification defines a standard algorithm for parsing HTML, which is implemented in all major browsers.'}
+{'javassist': 'Javassist is a class library for editing bytecode in java.'}
+{'jdom': 'JDOM is an open source library for working with a Java representation of an XML document. JDOM provides a way to represent that document for easy and efficient reading, manipulation, and writing. It has a straightforward API, is a lightweight and fast, and is optimized for the Java programmer.'}
+{'jline': 'JLine is a Java library for handling console input. It is similar in functionality to BSD editline and GNU readline. People familiar with the readline/editline capabilities for modern shells (such as bash and tcsh) will find most of the command editing features of JLine to be familiar.'}
+{'jmock': 'For questions about using jMock. JMock is a helper framework for test-driven development and unit testing.'}
+{'jmockit': 'JMockit is a java framework for mocking objects in JUnit testing. It uses the instrumentation apis that modify the bytecode during run time to dynamically create classes. It allows developers to write unit tests without the testability issues typically found with other mocking APIs. Tests can be written that will mock final classes, static methods, constructors, and so on. The API also provides advanced support for integration tests and code coverage tool.'}
+{'json': 'JSON (JavaScript Object Notation) is a serializable data interchange format that is a machine and human readable. Do not use this tag for native JavaScript objects or JavaScript object literals. Before you ask a question, validate your JSON using a JSON validator such as JSONLint (https://jsonlint.com).'}
+{'jsoup': 'Jsoup is a Java HTML parser for extracting and manipulating HTML data, using the best of DOM, CSS, and jQuery-like methods.'}
+{'lwjgl': 'The Lightweight Java Game Library (LWJGL) allows access to high performance crossplatform libraries such as OpenGL, OpenCL and OpenAL to write state of the art 2D and 3D applications with Java.'}
+{'mongo-java-driver': 'The Java driver for MongoDB'}
+{'neo4j': 'Neo4j is an open-source graph database (GDB) well suited to connected data. Please mention your exact version of Neo4j when asking questions. You can use it for recommendation engines, fraud detection, graph-based search, network ops/security, and many other user cases. The database is accessed via official drivers in Java, JavaScript, Python and .NET, or community-contributed drivers in PHP, Ruby, R, Golang, Elixir, Swift and more.'}
+{'asm': 'Assembly language questions. Please tag the processor and/or the instruction set you are using, as well as the assembler, a valid set should be like this: ([assembly] [x86] [gnu-assembler] or [att]). Use the [.net-assembly] tag instead for .NET assemblies, [cil] for .NET assembly language, and for Java bytecode, use the tag java-bytecode-asm instead.'}
+{'postgresql': 'PostgreSQL is an open-source, relational database management system (RDBMS) available for all major platforms, including Linux, UNIX, Windows and OS X. Mention your version of Postgres when asking questions.\r\nConsider dba.stackexchange.com for questions concerning the administration or advanced features.'}
+{'reflections': 'For questions about the Java Reflections library (org.reflections.reflections) by ronmamo, which performs Java runtime metadata analysis, in the spirit of Scannotations.'}
+{'scribe': 'Scribe is a simple OAuth library for Java'}
+{'selenium-server': 'Selenium component for running Selenium-RC and Selenium-Grid'}
+{'slf4j-api': "Simple Logging Facade for Java (SLF4J) serves as a simple facade or abstraction layer for various logging frameworks. Please also include a tag for the actual logging framework you're using if you are attempting to configure logging for your application."}
+{'jline': 'JLine is a Java library for handling console input. It is similar in functionality to BSD editline and GNU readline. People familiar with the readline/editline capabilities for modern shells (such as bash and tcsh) will find most of the command editing features of JLine to be familiar.'}
+{'swingx': 'Contains extensions to the Java Swing GUI toolkit, including new and enhanced components that provide functionality commonly required by rich client applications.'}
+{'testng': 'TestNG is a testing framework focused on providing both unit and functional testing abilities in the Java programming language. It supports parallel testing, data providers, dependencies, groups and other features.'}
+{'snakeyaml': 'SnakeYAML is a YAML parser and emitter for the Java programming language.'}
+{'pdfbox': 'The Apache PDFBox library is an open source Java tool for working with PDF documents. This project allows creation of new PDF documents, manipulation of existing documents and the ability to extract content from documents. Apache PDFBox also includes several command line utilities.'}
+{'postgresql': 'PostgreSQL is an open-source, relational database management system (RDBMS) available for all major platforms, including Linux, UNIX, Windows and OS X. Mention your version of Postgres when asking questions.\r\nConsider dba.stackexchange.com for questions concerning the administration or advanced features.'}
+{'saxon': 'Saxon is an implementation of XSLT, XQuery, XPath, and XSD. In supports the latest W3C standards including XSLT 3.0, XQuery 3.1, XPath 3.1, and XSD 1.1. There are versions for Java, .NET, and C, in both open source and commercial editions. The latest addition to the product set is Saxon-JS, an XSLT runtime which will run in most browsers.'}
+{'velocity': 'Apache Velocity is a Java-based template engine.  It can be used to dynamically generate web pages, email messages, source code, or any other text file.'}
+{'xalan': 'Xalan is an open source XSLT 1.0 processor with implementations in Java and C++.'}
+{'xerces': 'Xerces is a collection of software libraries for parsing, validating, serializing and manipulating XML'}
+{'xstream': 'XStream is a simple Java library to serialize objects to XML and back again.'}
+{'forms': 'A form is essentially a container that can be used to hold any amount of any subset of several types of data. HTML forms are used to pass data to a server. VB and C# forms are the windows used to interact with the user.'}
+{'antlr4': 'Version 4 of ANother Tool for Language Recognition (ANTLR), a flexible lexer/parser generator. ANTLR4 features an enhanced adaptive LL(*) parsing algorithm, that improves on the simpler LL(*) algorithm used in ANTLR3.'}
+{'c3p0': 'c3p0 is a Java library for JDBC drivers with JNDI-bindable DataSources, including DataSources that implement Connection and Statement Pooling, as described by the jdbc3 spec and jdbc2 std extension.'}
+{'logstash-logback-encoder': 'JSON encoder for logback. Initially developed for sending JSON-encoded logs to logstash. It has evolved into an extremely customizable structured logging library.'}
+{'guice-persist': 'Guice Persist provides abstractions for working with datastores and persistence providers in Guice applications. It works in a normal Java desktop or server application, inside a plain Servlet environment, or even a Java EE container.'}
+{'guice': 'Guice is a lightweight dependency injection framework for Java.'}
+{'spring-boot-starter': 'For questions relating to the Spring Boot Starter POMs.'}
+{'spring-boot-devtools': '`spring-boot-devtools` is Spring Boot subproject that enable quick reloading of static resources (by disabling template engines cache) and lightweight context reload when changes to `.class` files detected.'}
+{'guice-servlet': "Guice's servlet extensions allow you to completely eliminate web.xml from your servlet application and take advantage of type-safe, idiomatic Java configuration of your servlet and filter components"}
+{'stringtemplate': 'A templating language which strictly enforces model/view separation'}
+{'oauth': 'OAuth (Open Authorization) is a specification for client applications to access protected resources on behalf of a user. It was developed as an alternative to users handing out their login credentials to third-party applications.'}
+{'checkstyle': 'Checkstyle is a static analysis tool for checking compliance of Java code to standards. It can be configured with various sets of coding standards. It is integrated in various other tools, such as IDEs (like Eclipse, NetBeans or IntelliJ), Maven, Gradle, or the continuous inspection platform SonarQube.'}
+{'jackson-dataformat-xml': 'Data format extension for Jackson to offer alternative support for serializing POJOs as XML and deserializing XML as pojos.'}
+{'jackson-dataformat-yaml': 'Support for reading and writing YAML-encoded data via Jackson abstractions.'}
+{'rhino': 'Mozilla Rhino is a JavaScript interpreter written in Java.'}
+{'ehcache': 'Ehcache is an open source, standards compliant Java-based cache used to boost performance, offload the database and simplify scalability.'}
+{'mx4j': 'MX4J is a project to build an Open Source implementation of the Java(TM) Management Extensions (JMX) and of the JMX Remote API (JSR 160) specifications, and to build tools relating to JMX.'}
+{'xmlunit': 'XMLUnit is an open source project which enables JUnit-style assertions to be made about the content and structure of XML.'}
+{'hibernate-validator': 'Hibernate Validator is the reference implementation for JSR 380 - Bean Validation 2.0'}
+{'mybatis': 'MyBatis is a framework for mapping objects to relational databases with an emphasis on high performance and simplicity. XML descriptors or annotations couple the objects to SQL statements or stored procedures.'}
+{'aopalliance': 'The AOP Alliance project is a joint open-source project between several software engineering people who are interested in AOP and Java.'}
+{'jna': 'Java Native Access (JNA) provides pure Java access to native shared libraries without the need for additional native or JNI code.'}
+{'spring-data-jpa': 'Spring Data - JPA is part of the Spring Data umbrella project which makes it easy to implement JPA based repositories'}
+{'icu4j': 'ICU - International Components for Unicode'}
+{'jta': 'Java Transaction API (JTA) specifies standard Java interfaces between a transaction manager and the parties involved in a distributed transaction system: the resource manager, the application server, and the transactional applications.'}
+{'solr-cell': 'Solr Content Extraction Library: a SOLR contrib module responsible for converting the raw content of a rich document to something usable by Solr.'}
+{'uispec4j': 'UISpec4J is an Open Source functional and unit testing framework for Swing-based Java applications, built on top of the JUnit test harness.'}
+{'gwt-bootstrap': "GWT-Bootstrap is a GWT library representing Twitter's bootstrap components, styles, and plugins."}
+{'boon': 'Boon is a high performance JSON parser.'}
+{'spring-aop': "Spring AOP is the Spring Framework's version of AOP, implemented in pure Java and using the @AspectJ annotations from the AspectJ project. Spring AOP works through dynamic JDK or CGLib Proxies."}
+{'rest-assured': 'REST Assured is a Java library that provides a domain-specific language (DSL) for writing powerful, maintainable tests for RESTful APIs.'}
+{'pmd': 'PMD scans source code and looks for potential problems like possible bugs, dead code, suboptimal code, overcomplicated expressions, and duplicate code.\r\nPMD supports Java, JavaScript, XML, and many more.'}
+{'spring-aop': "Spring AOP is the Spring Framework's version of AOP, implemented in pure Java and using the @AspectJ annotations from the AspectJ project. Spring AOP works through dynamic JDK or CGLib Proxies."}
+{'rest-assured': 'REST Assured is a Java library that provides a domain-specific language (DSL) for writing powerful, maintainable tests for RESTful APIs.'}
+{'pmd': 'PMD scans source code and looks for potential problems like possible bugs, dead code, suboptimal code, overcomplicated expressions, and duplicate code.\r\nPMD supports Java, JavaScript, XML, and many more.'}
+{'jms': 'The Java Message Service (JMS) API is a Java Message Oriented Middleware (MOM) API for sending messages between two or more clients. JMS is a part of the Java Platform, Enterprise Edition, and is defined by a specification developed under the Java Community Process.'}
+{'xmlbeans': 'XMLBeans is a technology for accessing XML by binding it to Java types.'}
+{'gremlin-server': 'Gremlin Server is a component of Apache TinkerPop that allows for the remote execution of Gremlin-based traversals.'}
+{'perf4j': 'Perf4J is a set of utilities for calculating and displaying perfomance statistics for Java code. For developers who are familiar with logging frameworks such as log4j or java.util.logging, an analogy helps to describe Perf4J: Perf4J is to System.currentTimeMillis() as log4j is to System.out.println()'}
+{'jgraph': 'JGraph is graph visualization library'}
+{'netty': 'An open source asynchronous event-driven network application framework written in Java. It is a NIO client server framework which enables quick and easy development of network applications such as protocol servers and clients'}
+{'avro': 'Apache Avro is a data serialization framework primarily used in Apache Hadoop.'}
+{'jfreechart': 'JFreeChart is a free Java chart library with many available chart types and support for numerous output types. The latest version is 1.5.0 released on 2017-11-05.  The license is LGPLv2 (or later).'}
+{'testcontainers': 'TestContainers is a Java library that supports (JUnit) tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.'}
+{'hibernate-envers': 'Hibernate Envers is a core module of the Hibernate framework that enables simple entity auditing and change tracking using annotations and simple configuration steps.'}
+{'ecj': 'Eclipse has implemented its own compiler called as Eclipse Compiler for Java (ECJ). This tag is for questions relating to the behaviour of that compiler.'}
+{'ecs': 'Amazon Elastic Container Service (ECS) is a highly scalable, high performance container management service that supports Docker containers and allows you to easily run distributed applications on a managed cluster of Amazon EC2 instances.'}
+{'spring-test': '`spring-test` is the testing module of the Spring Framework, providing support for unit and integration testing with JUnit and TestNG, including various mocks for unit testing and the Spring TestContext Framework & the Spring MVC Test Framework for integration testing Spring-based applications.'}
+{'richfaces': 'RichFaces was a component library for JSF and an advanced framework for easily integrating AJAX capabilities into business applications. It reached end-of-life in June 2016.'}
+{'jasypt': 'Jasypt is a Java-based encryption library, designed for ease of use with minimum necessary knowledge of how cryptography works.'}
+{'ide': 'IDEs (Integrated Development Environment) are computer programs that facilitate efficient software development by providing features beyond those of a simple text editor.'}
+{'htmlcleaner': 'HtmlCleaner is open-source HTML parser written in Java.'}
+{'js': 'For questions about programming in ECMAScript (JavaScript/JS) and its different dialects/implementations (except for ActionScript). Note that JavaScript is NOT Java. Include all tags that are relevant to your question: e.g., [node.js], [jQuery], [JSON], [ReactJS], [angular], [ember.js], [vue.js], [typescript], [svelte], etc.'}
+{'spring-orm': 'Spring Framework Object Relational Mapping (ORM) Data Access'}
+{'bcel': 'Apache Byte Code Engineering Library, an open-source library for inspecting and manipulating Java byte code files (.class files)'}
+{'gson': "Gson is Google's open-source library for serializing and deserializing Java objects to/from JSON."}
+{'tomcat-jdbc': 'This tag is about tomcat and jdbc working together.'}
+{'jmockit': 'JMockit is a java framework for mocking objects in JUnit testing. It uses the instrumentation apis that modify the bytecode during run time to dynamically create classes. It allows developers to write unit tests without the testability issues typically found with other mocking APIs. Tests can be written that will mock final classes, static methods, constructors, and so on. The API also provides advanced support for integration tests and code coverage tool.'}
+{'google-collections': "Google's Core Java Library for Java and Android development."}
+{'jest': "Jest is a JavaScript unit testing framework made by Facebook based on Jasmine and provides automated mock creation and a jsdom environment. It's often used for testing React components."}
+{'eclipselink': 'EclipseLink delivers a comprehensive open-source Java persistence solution. EclipseLink focuses on standards (JPA, JAXB, SDO) with advanced features, performance and scalability for enterprise software developers across data sources, formats, and containers.'}
+{'jcommander': 'A java utility for CLI parameters parsing.'}
+{'saxon': 'Saxon is an implementation of XSLT, XQuery, XPath, and XSD. In supports the latest W3C standards including XSLT 3.0, XQuery 3.1, XPath 3.1, and XSD 1.1. There are versions for Java, .NET, and C, in both open source and commercial editions. The latest addition to the product set is Saxon-JS, an XSLT runtime which will run in most browsers.'}
+{'reflections': 'For questions about the Java Reflections library (org.reflections.reflections) by ronmamo, which performs Java runtime metadata analysis, in the spirit of Scannotations.'}
+{'jsr305': '(Dormant JSR) Annotations for Software Defect Detection'}
+{'xerces': 'Xerces is a collection of software libraries for parsing, validating, serializing and manipulating XML'}
+{'swingx': 'Contains extensions to the Java Swing GUI toolkit, including new and enhanced components that provide functionality commonly required by rich client applications.'}
+{'objenesis': 'Objenesis is a small Java library that serves one purpose of instantiating a new object of a particular class.'}
+{'jgrapht': 'JGraphT is a free Java graph library that provides mathematical graph-theory objects and algorithms.'}
+{'concurrent': 'In computer science, concurrency is a property of systems in which multiple computations can be performed in overlapping time periods. The computations may be executing on multiple cores in the same chip, preemptively time-shared threads on the same processor, or executed on physically separated processors.'}
+{'xstream': 'XStream is a simple Java library to serialize objects to XML and back again.'}
+{'slf4j-api': "Simple Logging Facade for Java (SLF4J) serves as a simple facade or abstraction layer for various logging frameworks. Please also include a tag for the actual logging framework you're using if you are attempting to configure logging for your application."}
+{'saxon': 'Saxon is an implementation of XSLT, XQuery, XPath, and XSD. In supports the latest W3C standards including XSLT 3.0, XQuery 3.1, XPath 3.1, and XSD 1.1. There are versions for Java, .NET, and C, in both open source and commercial editions. The latest addition to the product set is Saxon-JS, an XSLT runtime which will run in most browsers.'}
+{'reflections': 'For questions about the Java Reflections library (org.reflections.reflections) by ronmamo, which performs Java runtime metadata analysis, in the spirit of Scannotations.'}
+{'jsr305': '(Dormant JSR) Annotations for Software Defect Detection'}
+{'xerces': 'Xerces is a collection of software libraries for parsing, validating, serializing and manipulating XML'}
+{'swingx': 'Contains extensions to the Java Swing GUI toolkit, including new and enhanced components that provide functionality commonly required by rich client applications.'}
+{'objenesis': 'Objenesis is a small Java library that serves one purpose of instantiating a new object of a particular class.'}
+{'jgrapht': 'JGraphT is a free Java graph library that provides mathematical graph-theory objects and algorithms.'}
+{'concurrent': 'In computer science, concurrency is a property of systems in which multiple computations can be performed in overlapping time periods. The computations may be executing on multiple cores in the same chip, preemptively time-shared threads on the same processor, or executed on physically separated processors.'}
+{'xstream': 'XStream is a simple Java library to serialize objects to XML and back again.'}
+{'slf4j-api': "Simple Logging Facade for Java (SLF4J) serves as a simple facade or abstraction layer for various logging frameworks. Please also include a tag for the actual logging framework you're using if you are attempting to configure logging for your application."}
+{'wicket': 'Apache Wicket, commonly referred to as Wicket, is a lightweight component-based web application framework for the Java programming language conceptually similar to JavaServer Faces and Tapestry.'}
+{'guice': 'Guice is a lightweight dependency injection framework for Java.'}
+{'jline': 'JLine is a Java library for handling console input. It is similar in functionality to BSD editline and GNU readline. People familiar with the readline/editline capabilities for modern shells (such as bash and tcsh) will find most of the command editing features of JLine to be familiar.'}
+{'jars': 'JAR file (or Java ARchive) aggregates many files into one. JAR files build on the ZIP file format.'}
+{'easymock': 'Easymock is a mocking framework for Java.'}
+{'jul-to-slf4j': 'Module including a java.util.logging (jul) handler, to route all incoming records to the SLF4j API.'}
+{'jimfs': 'An in-memory file system for Java 7+'}
+{'checkstyle': 'Checkstyle is a static analysis tool for checking compliance of Java code to standards. It can be configured with various sets of coding standards. It is integrated in various other tools, such as IDEs (like Eclipse, NetBeans or IntelliJ), Maven, Gradle, or the continuous inspection platform SonarQube.'}
+{'annotations': 'In programming, annotations are used to add information to a code element which cannot be expressed by the type system.'}
+{'webtest': 'WebTest helps you test your WSGI-based web applications, which includes most actively developed Python web frameworks.'}
+{'hamcrest': 'Hamcrest is an open source library of constraint classes used to match objects and values, typically by other frameworks such as unit testing, mocking, or collections.'}
+{'h2': 'H2 is a relational database management system written in Java. It can be embedded in Java applications or run in the client-server mode. H2 supports regular disk-based as well as in-memory databases.'}
+{'dagger': 'Dagger is a dependency injection library for Java and Android.'}
+{'mail': 'Use this tag for questions involving code to send or receive email messages. Posting to ask why the emails you send are marked as spam is off-topic for Stack Overflow.  Questions about configuration of mail servers belong on Server Fault.'}
+{'stringtemplate': 'A templating language which strictly enforces model/view separation'}
+{'jxl': 'Java Excel API - A Java API to read, write, and modify Excel spreadsheets'}
+{'solr': 'Apache Solr is an open source search server based on the Lucene Java search library.'}
+{'apache-cxf': 'Apache CXF helps you build and develop services using frontend programming APIs, like JAX-WS and JAX-RS. These services can speak a variety of protocols such as SOAP, XML/HTTP, RESTful HTTP, or CORBA and work over a variety of transports such as HTTP, JMS or JBI.'}
+{'ant': "Apache Ant (formerly Jakarta Ant) is a declarative, XML-based build tool created originally for Java projects.  It provides a rich set of standard tasks for performing most common build operations, such as compiling Java source, building archives and running tests.  Ant's functionality can be extended through custom tasks and macros."}
+{'hbase': "HBase is the Hadoop database (columnar). Use it when you need random, real time read/write access to your Big Data. This project's goal is the hosting of very large tables -- billions of rows X millions of columns -- atop clusters of commodity hardware."}
+{'jmock': 'For questions about using jMock. JMock is a helper framework for test-driven development and unit testing.'}
+{'jdom': 'JDOM is an open source library for working with a Java representation of an XML document. JDOM provides a way to represent that document for easy and efficient reading, manipulation, and writing. It has a straightforward API, is a lightweight and fast, and is optimized for the Java programmer.'}
+{'javassist': 'Javassist is a class library for editing bytecode in java.'}
+{'spotbugs': 'SpotBugs is a program which uses static analysis to look for bugs in Java code. SpotBugs is the spiritual successor of FindBugs, carrying on from the point where it left off with support of its community.'}
+{'jts': 'The JTS Topology Suite is an open source API of 2D spatial predicates and functions written in Java.'}
+{'json-lib': 'JSON-lib is a Java-to-JSON binding API that serializes and deserializes JSON data to and from Java data structures.  It also includes some support for translations between XML and JSON.'}
+{'openjpa': 'OpenJPA is an open source implementation of the Java Persistence API specification. It is an object-relational mapping (ORM) solution for the Java language, which simplifies storing objects in databases. It is open source software distributed under the Apache 2.0 Licence.'}
+{'args4j': 'arg4j makes it easy to parse command line options/arguments in your CUI application.'}
+{'velocity': 'Apache Velocity is a Java-based template engine.  It can be used to dynamically generate web pages, email messages, source code, or any other text file.'}
+{'junit': 'Popular unit testing framework for Java and Scala. The latest version, JUnit 5, supports rich annotation-based and parameterized tests. Consider using in conjunction with the Java or Scala tag to indicate your use case.'}
+{'spring-test': '`spring-test` is the testing module of the Spring Framework, providing support for unit and integration testing with JUnit and TestNG, including various mocks for unit testing and the Spring TestContext Framework & the Spring MVC Test Framework for integration testing Spring-based applications.'}
+{'spring-jdbc': 'Spring JDBC is a part of  Data access layer provided by Spring. The Spring Framework takes care of all the low-level details that can make JDBC such a tedious API to develop with such as database connections, creating prepare statements, process exceptions etc.,'}
+{'lwjgl': 'The Lightweight Java Game Library (LWJGL) allows access to high performance crossplatform libraries such as OpenGL, OpenCL and OpenAL to write state of the art 2D and 3D applications with Java.'}
+{'okhttp': 'An HTTP+HTTP/2 client for Android and Java applications.'}
+{'ognl': 'OGNL stands for Object-Graph Navigation Language. It is an expression language for getting and setting properties of Java objects.'}
+{'fastutil': 'fastutil is a collection of type-specific Java classes that extend the Java Collections Framework by providing several containers, such as maps, sets, lists and prority queues, implementing the interfaces of the java.util package; it provides also big (64-bit) arrays, sets and lists, and fast, practical I/O classes for binary and text files.'}
+{'findbugs': 'A program which uses static analysis to look for bugs in Java code.'}
+{'json-simple': 'JSON.simple is a Java-to-JSON binding API that serializes and deserializes JSON data to and from Java data structures.'}
+{'json': 'JSON (JavaScript Object Notation) is a serializable data interchange format that is a machine and human readable. Do not use this tag for native JavaScript objects or JavaScript object literals. Before you ask a question, validate your JSON using a JSON validator such as JSONLint (https://jsonlint.com).'}
+{'velocity-tools': 'VelocityTools is an integrated collection of Velocity subprojects and infrastructure to easily, automatically and transparently make these tools available to Velocity templates.'}
+{'jackson-dataformat-yaml': 'Support for reading and writing YAML-encoded data via Jackson abstractions.'}
+{'threetenbp': 'ThreeTen-Backport is the backport of JSR-310 to Java SE 7. Questions about "java.time" in Java SE 8 should use the [java-time] tag. Only questions specifically about the backport should use this tag.'}
+{'properties': 'A property, in some object-oriented programming languages, is a special sort of class member, intermediate between a field (or data member) and a method. Properties are read and written like fields, but property reads and writes are (usually) translated to get and set method calls.'}
+{'fastjson': 'A fast JSON parser/generator for Java, or a smallest, fastest polymorphic JSON serializer for C#.'}
+{'javax.persistence': 'The Jakarta/Java Persistence API (JPA) is a Java specification for accessing, persisting, and managing data between Java objects/classes and a relational database. It is part of the EJB 3.0 specification and is the industry standard approach for Object to Relational Mapping (ORM).'}
+{'guava-collections': "Google's Core Java Library for Java and Android development."}
+{'asm': 'Assembly language questions. Please tag the processor and/or the instruction set you are using, as well as the assembler, a valid set should be like this: ([assembly] [x86] [gnu-assembler] or [att]). Use the [.net-assembly] tag instead for .NET assemblies, [cil] for .NET assembly language, and for Java bytecode, use the tag java-bytecode-asm instead.'}
+{'castor': 'Castor is an open source data binding framework.'}
+{'log': 'Computer data logging is the process of recording events in a computer program or computer system, usually with a certain scope, in order to provide an audit trail that can be used to understand the activity of the system and to diagnose problems. Be sure to include appropriate software or hardware tags in addition to this tag.'}
+{'cglib': 'CGLib (Code Generation Library) is a run time code generation library for the Java platform licensed under the Apache 2.0 license.'}
+{'log4j': 'log4j is a popular Java-based logging utility. It is a project of the Apache Software Foundation and is licensed under The Apache Software License, Version 2.0'}
+{'dom4j': 'dom4j is an open source library for working with XML, XPath and XSLT on the Java platform using the Java Collections Framework and with full support for DOM, SAX and JAXP.'}
+{'guava': "Google's Core Java Library for Java and Android development."}
+{'core': 'Use this tag to refer to processor cores or questions related to threads and parallel processing.\r\nFor questions about .NET Core, please use the [.net-core] tag.'}
+{'avro': 'Apache Avro is a data serialization framework primarily used in Apache Hadoop.'}
+{'jetty': 'Eclipse Jetty is a widely-used async Java-based HTTP server and servlet engine supporting HTTP/1.0, HTTP/1.1, HTTP/2, HTTP/3, WebSocket, UnixSocket, and FastCGI protocols.'}
+{'transport': 'Do not use. This tag has been used for everything from trucks to network transport layers. Disambiguation required.'}
+{'jboss-logging': 'JBoss Logging is a logging facade library which includes support for internationalized logging by way of an annotated interface mechanism.  These interfaces are designed to be used as input into build tools which generate classes that implement them, using various string translations.'}
+{'vaadin': 'Use the [vaadin] tag for all posts relating to any use of the Vaadin web application development platform. For posts related to a particular Vaadin or a specific component, additionally tag the post with the corresponding tag, for example: [vaadin8], and [vaadin-upload], respectively.'}
+{'openpdf': 'OpenPDF is a freeware and open-source tool for viewing and modifying PDF documents and other PDF objects. It is a fork of the last non-AGPL version of iText.'}
+{'mongo-java-driver': 'The Java driver for MongoDB'}
+{'elasticsearch': 'Elasticsearch is a free and open, distributed, RESTful search engine based on Lucene.'}
+{'displaytag': 'The display tag library is an open source suite of custom Java Server Pages (JSP) tags that provide high-level web presentation patterns which will work in an MVC model.'}
+{'fest-assert': 'FEST is a collection of libraries whose mission is to simplify software testing. It is composed of various modules, which can be used with TestNG or JUnit. FEST-Assert provides a fluent interface for assertions. This means that you can use your development environments code completion features to build your asserts.'}
+{'neo4j': 'Neo4j is an open-source graph database (GDB) well suited to connected data. Please mention your exact version of Neo4j when asking questions. You can use it for recommendation engines, fraud detection, graph-based search, network ops/security, and many other user cases. The database is accessed via official drivers in Java, JavaScript, Python and .NET, or community-contributed drivers in PHP, Ruby, R, Golang, Elixir, Swift and more.'}
+{'guice-servlet': "Guice's servlet extensions allow you to completely eliminate web.xml from your servlet application and take advantage of type-safe, idiomatic Java configuration of your servlet and filter components"}
+{'wss4j': 'The Apache WSS4J™ is a Java implementation of the primary security standards for Web Services, namely the OASIS Web Services Security (WS-Security) specifications from the OASIS Web Services Security TC.'}
+{'jettison': 'Jettison is a collection of Java APIs (like STaX and DOM) which read and write JSON.'}
+{'trove4j': 'The Trove library provides high speed regular and primitive collections for Java.'}
+{'selenium-server': 'Selenium component for running Selenium-RC and Selenium-Grid'}
+{'svenson': 'svenson is a Java5 JSON generator/parser.'}
+{'snakeyaml': 'SnakeYAML is a YAML parser and emitter for the Java programming language.'}
+{'framework': "A framework is an existing library or set of libraries that provides overarching application structure so that the developer can focus primarily on their application's implementation details instead. In most cases the tag for a specific framework should be used instead of this tag."}
+{'spring-boot-actuator': 'Spring Boot Actuator is a sub-project of Spring Boot. It adds several production grade services to your application with little effort on your part.'}
+{'antlr': 'ANTLR, ANother Tool for Language Recognition, is a language tool that provides a framework for constructing recognizers, interpreters, compilers, and translators from grammatical descriptions containing actions in a variety of target languages.'}
+{'mybatis': 'MyBatis is a framework for mapping objects to relational databases with an emphasis on high performance and simplicity. XML descriptors or annotations couple the objects to SQL statements or stored procedures.'}
+{'moshi': 'Moshi is a JSON library for Android and Java. It makes it easy to parse JSON into Java objects:'}
+{'base64': 'Base64 is a set of encoding schemes that represent binary data in an ASCII string format.'}
+{'lombok': 'Project Lombok is a tool for reducing boilerplate code in Java through annotations and compile time code generation.'}
+{'cassandra-driver': 'Apache Cassandra  drivers for variety of programming languages'}
+{'freemarker': 'Apache FreeMarker™ is a template engine: a Java library to generate text output (HTML web pages, e-mails, configuration files, source code, etc.) based on templates and changing data.'}
+{'itext': 'Library to create and manipulate PDF documents in Java and C#. Use this tag for code using iText versions up to 5.5.x. For iText versions from 7.0.0 onwards a separate tag "itext7" is available.  Remember to also add the tag for the language you\'re using.'}
+{'scribe': 'Scribe is a simple OAuth library for Java'}
+{'itextpdf': 'Library to create and manipulate PDF documents in Java and C#. Use this tag for code using iText versions up to 5.5.x. For iText versions from 7.0.0 onwards a separate tag "itext7" is available.  Remember to also add the tag for the language you\'re using.'}
+{'netty': 'An open source asynchronous event-driven network application framework written in Java. It is a NIO client server framework which enables quick and easy development of network applications such as protocol servers and clients'}
+{'colt': 'A set of open source libraries for high-performance scientific computing written in Java and developed at CERN.'}
+{'xalan': 'Xalan is an open source XSLT 1.0 processor with implementations in Java and C++.'}
+{'groovy': 'Groovy is an object-oriented programming language for the Java platform. It is a dynamic language with features similar to those of Python, Ruby, Perl and Smalltalk. It can be used as a scripting language for the Java platform.'}
+{'postgresql': 'PostgreSQL is an open-source, relational database management system (RDBMS) available for all major platforms, including Linux, UNIX, Windows and OS X. Mention your version of Postgres when asking questions.\r\nConsider dba.stackexchange.com for questions concerning the administration or advanced features.'}
+{'handlebars': 'Handlebars is a templating library for JavaScript.'}
+{'miglayout': 'MiG Layout is a free and open-source layout manager for Java Swing, SWT, JavaFX2, Fantom, Qt and other GUI toolkits.'}
+{'derby': 'Use this  tag for questions about Apache Derby, an Apache DB subproject. Derby is an open source relational database implemented entirely in Java and available under the Apache License, Version 2.0.'}
+{'flexjson': 'Flexjson is a lightweight library for serializing and deserializing Java objects into and from JSON.'}
+{'testng': 'TestNG is a testing framework focused on providing both unit and functional testing abilities in the Java programming language. It supports parallel testing, data providers, dependencies, groups and other features.'}
+{'htmlparser': 'HTML parsing is the process of consuming a serialization of an HTML document and producing a representation that you can work with programmatically — e.g., in order to extract data from it. The HTML specification defines a standard algorithm for parsing HTML, which is implemented in all major browsers.'}
+{'opencsv': 'opencsv is a simple csv (comma-separated values) parser library for Java'}
+{'hibernate-entitymanager': 'Hibernate EntityManager implements the programming interfaces and lifecycle rules as defined by the JPA 2.0 specification.'}
+{'hsqldb': 'HSQLDB (HyperSQL Database) is a relational database management system. It is written in Java.'}
+{'bytecode': '"bytecode" is a blanket term for opcodes that are consumed by a virtual machine. For example, the JVM runs bytecode stored in .class files and the CPython interpreter runs bytecode stored in .pyc files.'}
+{'jsoup': 'Jsoup is a Java HTML parser for extracting and manipulating HTML data, using the best of DOM, CSS, and jQuery-like methods.'}
+{'retrofit': 'Retrofit is a type-safe REST client for Android and Java by Square, Inc.'}
+{'rest': 'REST (Representational State Transfer) is a style of software architecture for distributed hypermedia systems such as the World Wide Web. It has increased in popularity relative to RPC architectures such as SOAP due to the intrinsic de-coupling of client from server that comes from having a uniform interface between heterogeneous systems.'}
+{'jansi': 'Jansi is a small java library that allows you to use ANSI escape codes to format your console output which works even on windows.'}
+{'spring-orm': 'Spring Framework Object Relational Mapping (ORM) Data Access'}
+{'jackson-dataformat-xml': 'Data format extension for Jackson to offer alternative support for serializing POJOs as XML and deserializing XML as pojos.'}
+{'byte-buddy': 'Byte Buddy is a code generation and manipulation library for creating and modifying Java classes during the runtime of a Java application and without the help of a compiler. Byte Buddy allows the creation of arbitrary classes and is not limited to implementing interfaces for the creation of runtime proxies. Furthermore, Byte Buddy offers a convenient API for changing classes either manually, using a Java agent or during a build.'}
+{'spring-data-jpa': 'Spring Data - JPA is part of the Spring Data umbrella project which makes it easy to implement JPA based repositories'}
+{'picocli': 'Picocli is a command line parsing library for Java and other JVM languages. Distinguishing features: provides both a programmatic and an annotation API, usage help with ANSI colors, autocompletion on supported platforms and strong support for nested subcommands. Designed to optionally be included as source to avoid adding dependencies.'}
+{'client': 'A client is an application or system that accesses a service made available by a server.'}
+{'htmlunit': 'HtmlUnit is a "headless browser". Which means that there is no browser GUI and it does no rendering. Though it has a CSS and JS engine to simulate a real browser. Primary purpose is testing and information extraction.'}
+{'httpclient': 'DO NOT USE - Use [apache-commons-httpclient], [apache-httpclient-4.x], [jetty-httpclient], [java-http-client], [dotnet-httpclient] or [angular-httpclient]'}
+{'zul': 'ZK User Interface Markup Language (ZUML). The UI declaration language for ZK framework.'}
+{'maven-plugin-testing-harness': "For questions about the Maven Plugin Testing Harness. Do not use it for general questions about the usage of maven plugins. Do not use it for questions about `maven-compiler-plugin`. Do not use it for questions about configuring testing frameworks with Maven. Simple criterion: if your `pom.xml` does not contain the string `maven-plugin-testing-harness`, then you most probably shouldn't be using this tag."}
+{'jackson-databind': 'Use this tag for questions related to jackson-databind library providing the data-binding functionality and tree-model for Jackson.'}
+{'pdfbox': 'The Apache PDFBox library is an open source Java tool for working with PDF documents. This project allows creation of new PDF documents, manipulation of existing documents and the ability to extract content from documents. Apache PDFBox also includes several command line utilities.'}
+{'xmlunit': 'XMLUnit is an open source project which enables JUnit-style assertions to be made about the content and structure of XML.'}
+{'dbunit': 'DbUnit is a JUnit extension targeted at database-driven projects that, among other things, puts your database into a known state between test runs.'}
+{'guava': "Google's Core Java Library for Java and Android development."}
+{'transactions': 'A set of interrelated operations that must all succeed in order for any of them to succeed.  Failure of any operation results in a rollback of all operations in the transaction.'}
+{'jdbi': 'jDBI is an extension library over standard JDBC, to make writing relational database access more convenient (and correct!) from Java.'}
+{'oracle-xe': 'Oracle Database Express Edition (Oracle Database XE) is an entry-level, small-footprint database, free to develop, deploy, and distribute; fast to download; and simple to administer.'}
+{'guava': "Google's Core Java Library for Java and Android development."}
+{'transactions': 'A set of interrelated operations that must all succeed in order for any of them to succeed.  Failure of any operation results in a rollback of all operations in the transaction.'}
+{'oracle-xe': 'Oracle Database Express Edition (Oracle Database XE) is an entry-level, small-footprint database, free to develop, deploy, and distribute; fast to download; and simple to administer.'}
+{'freemarker': 'Apache FreeMarker™ is a template engine: a Java library to generate text output (HTML web pages, e-mails, configuration files, source code, etc.) based on templates and changing data.'}
+{'jsoup': 'Jsoup is a Java HTML parser for extracting and manipulating HTML data, using the best of DOM, CSS, and jQuery-like methods.'}
+{'jline': 'JLine is a Java library for handling console input. It is similar in functionality to BSD editline and GNU readline. People familiar with the readline/editline capabilities for modern shells (such as bash and tcsh) will find most of the command editing features of JLine to be familiar.'}
+{'rest': 'REST (Representational State Transfer) is a style of software architecture for distributed hypermedia systems such as the World Wide Web. It has increased in popularity relative to RPC architectures such as SOAP due to the intrinsic de-coupling of client from server that comes from having a uniform interface between heterogeneous systems.'}
+{'checkstyle': 'Checkstyle is a static analysis tool for checking compliance of Java code to standards. It can be configured with various sets of coding standards. It is integrated in various other tools, such as IDEs (like Eclipse, NetBeans or IntelliJ), Maven, Gradle, or the continuous inspection platform SonarQube.'}
+{'gson': "Gson is Google's open-source library for serializing and deserializing Java objects to/from JSON."}
+{'jmockit': 'JMockit is a java framework for mocking objects in JUnit testing. It uses the instrumentation apis that modify the bytecode during run time to dynamically create classes. It allows developers to write unit tests without the testability issues typically found with other mocking APIs. Tests can be written that will mock final classes, static methods, constructors, and so on. The API also provides advanced support for integration tests and code coverage tool.'}
+{'gson': "Gson is Google's open-source library for serializing and deserializing Java objects to/from JSON."}
+{'jmockit': 'JMockit is a java framework for mocking objects in JUnit testing. It uses the instrumentation apis that modify the bytecode during run time to dynamically create classes. It allows developers to write unit tests without the testability issues typically found with other mocking APIs. Tests can be written that will mock final classes, static methods, constructors, and so on. The API also provides advanced support for integration tests and code coverage tool.'}
+{'jackson-dataformat-yaml': 'Support for reading and writing YAML-encoded data via Jackson abstractions.'}
+{'jettison': 'Jettison is a collection of Java APIs (like STaX and DOM) which read and write JSON.'}
+{'fastutil': 'fastutil is a collection of type-specific Java classes that extend the Java Collections Framework by providing several containers, such as maps, sets, lists and prority queues, implementing the interfaces of the java.util package; it provides also big (64-bit) arrays, sets and lists, and fast, practical I/O classes for binary and text files.'}
+{'groovy': 'Groovy is an object-oriented programming language for the Java platform. It is a dynamic language with features similar to those of Python, Ruby, Perl and Smalltalk. It can be used as a scripting language for the Java platform.'}
+{'json-lib': 'JSON-lib is a Java-to-JSON binding API that serializes and deserializes JSON data to and from Java data structures.  It also includes some support for translations between XML and JSON.'}
+{'htmlparser': 'HTML parsing is the process of consuming a serialization of an HTML document and producing a representation that you can work with programmatically — e.g., in order to extract data from it. The HTML specification defines a standard algorithm for parsing HTML, which is implemented in all major browsers.'}
+{'postgresql': 'PostgreSQL is an open-source, relational database management system (RDBMS) available for all major platforms, including Linux, UNIX, Windows and OS X. Mention your version of Postgres when asking questions.\r\nConsider dba.stackexchange.com for questions concerning the administration or advanced features.'}
+{'neo4j': 'Neo4j is an open-source graph database (GDB) well suited to connected data. Please mention your exact version of Neo4j when asking questions. You can use it for recommendation engines, fraud detection, graph-based search, network ops/security, and many other user cases. The database is accessed via official drivers in Java, JavaScript, Python and .NET, or community-contributed drivers in PHP, Ruby, R, Golang, Elixir, Swift and more.'}
+{'eclipselink': 'EclipseLink delivers a comprehensive open-source Java persistence solution. EclipseLink focuses on standards (JPA, JAXB, SDO) with advanced features, performance and scalability for enterprise software developers across data sources, formats, and containers.'}
+{'lwjgl': 'The Lightweight Java Game Library (LWJGL) allows access to high performance crossplatform libraries such as OpenGL, OpenCL and OpenAL to write state of the art 2D and 3D applications with Java.'}
+{'xalan': 'Xalan is an open source XSLT 1.0 processor with implementations in Java and C++.'}
+{'flexjson': 'Flexjson is a lightweight library for serializing and deserializing Java objects into and from JSON.'}
+{'httpclient': 'DO NOT USE - Use [apache-commons-httpclient], [apache-httpclient-4.x], [jetty-httpclient], [java-http-client], [dotnet-httpclient] or [angular-httpclient]'}
+{'javax.persistence': 'The Jakarta/Java Persistence API (JPA) is a Java specification for accessing, persisting, and managing data between Java objects/classes and a relational database. It is part of the EJB 3.0 specification and is the industry standard approach for Object to Relational Mapping (ORM).'}
+{'hibernate-entitymanager': 'Hibernate EntityManager implements the programming interfaces and lifecycle rules as defined by the JPA 2.0 specification.'}
+{'caffeine': 'Caffeine is an open source cache for Java 8 and above. It offers a near optimal hit rate, excellent concurrent performance, and a variety of features packed into a simple API.'}
+{'xstream': 'XStream is a simple Java library to serialize objects to XML and back again.'}
+{'h2': 'H2 is a relational database management system written in Java. It can be embedded in Java applications or run in the client-server mode. H2 supports regular disk-based as well as in-memory databases.'}
+{'netty': 'An open source asynchronous event-driven network application framework written in Java. It is a NIO client server framework which enables quick and easy development of network applications such as protocol servers and clients'}
+{'hbase': "HBase is the Hadoop database (columnar). Use it when you need random, real time read/write access to your Big Data. This project's goal is the hosting of very large tables -- billions of rows X millions of columns -- atop clusters of commodity hardware."}
+{'log': 'Computer data logging is the process of recording events in a computer program or computer system, usually with a certain scope, in order to provide an audit trail that can be used to understand the activity of the system and to diagnose problems. Be sure to include appropriate software or hardware tags in addition to this tag.'}
+{'testng': 'TestNG is a testing framework focused on providing both unit and functional testing abilities in the Java programming language. It supports parallel testing, data providers, dependencies, groups and other features.'}
+{'chronicle-map': 'Chronicle Map is an efficient, low latency in-memory Key Value Store for the JVM with optional persistence to disk.'}
+{'picocli': 'Picocli is a command line parsing library for Java and other JVM languages. Distinguishing features: provides both a programmatic and an annotation API, usage help with ANSI colors, autocompletion on supported platforms and strong support for nested subcommands. Designed to optionally be included as source to avoid adding dependencies.'}
+{'itextpdf': 'Library to create and manipulate PDF documents in Java and C#. Use this tag for code using iText versions up to 5.5.x. For iText versions from 7.0.0 onwards a separate tag "itext7" is available.  Remember to also add the tag for the language you\'re using.'}
+{'javassist': 'Javassist is a class library for editing bytecode in java.'}
+{'svenson': 'svenson is a Java5 JSON generator/parser.'}
+{'solr': 'Apache Solr is an open source search server based on the Lucene Java search library.'}
+{'slf4j-api': "Simple Logging Facade for Java (SLF4J) serves as a simple facade or abstraction layer for various logging frameworks. Please also include a tag for the actual logging framework you're using if you are attempting to configure logging for your application."}
+{'elasticsearch': 'Elasticsearch is a free and open, distributed, RESTful search engine based on Lucene.'}
+{'hamcrest': 'Hamcrest is an open source library of constraint classes used to match objects and values, typically by other frameworks such as unit testing, mocking, or collections.'}
+{'velocity': 'Apache Velocity is a Java-based template engine.  It can be used to dynamically generate web pages, email messages, source code, or any other text file.'}
+{'log4j': 'log4j is a popular Java-based logging utility. It is a project of the Apache Software Foundation and is licensed under The Apache Software License, Version 2.0'}
+{'scribe': 'Scribe is a simple OAuth library for Java'}
+{'fest-assert': 'FEST is a collection of libraries whose mission is to simplify software testing. It is composed of various modules, which can be used with TestNG or JUnit. FEST-Assert provides a fluent interface for assertions. This means that you can use your development environments code completion features to build your asserts.'}
+{'guava': "Google's Core Java Library for Java and Android development."}
+{'openpdf': 'OpenPDF is a freeware and open-source tool for viewing and modifying PDF documents and other PDF objects. It is a fork of the last non-AGPL version of iText.'}
+{'dagger': 'Dagger is a dependency injection library for Java and Android.'}
+{'reflections': 'For questions about the Java Reflections library (org.reflections.reflections) by ronmamo, which performs Java runtime metadata analysis, in the spirit of Scannotations.'}
+{'htmlunit': 'HtmlUnit is a "headless browser". Which means that there is no browser GUI and it does no rendering. Though it has a CSS and JS engine to simulate a real browser. Primary purpose is testing and information extraction.'}
+{'args4j': 'arg4j makes it easy to parse command line options/arguments in your CUI application.'}
+{'jmock': 'For questions about using jMock. JMock is a helper framework for test-driven development and unit testing.'}
+{'fastjson': 'A fast JSON parser/generator for Java, or a smallest, fastest polymorphic JSON serializer for C#.'}
+{'dom4j': 'dom4j is an open source library for working with XML, XPath and XSLT on the Java platform using the Java Collections Framework and with full support for DOM, SAX and JAXP.'}
+{'jansi': 'Jansi is a small java library that allows you to use ANSI escape codes to format your console output which works even on windows.'}
+{'easymock': 'Easymock is a mocking framework for Java.'}
+{'android-json': 'JSON stands for (Java Script Object Notation). It is a simple and light-weight data interchange format that can be easily read by humans and machines.Android includes the org.json library which allow working efficiently with JSON. \r\n This provides easy parsing of JSON data and creating JSON strings'}
+{'antlr': 'ANTLR, ANother Tool for Language Recognition, is a language tool that provides a framework for constructing recognizers, interpreters, compilers, and translators from grammatical descriptions containing actions in a variety of target languages.'}
+{'jcommander': 'A java utility for CLI parameters parsing.'}
+{'cassandra-driver': 'Apache Cassandra  drivers for variety of programming languages'}
+{'roboguice': 'Roboguice brings the power and testability of using the Google Guice dependency injection framework to Android application development.'}
+{'tomcat-juli': "Question regrading Tomcat's Java logging API (since tomcat 7)"}
+{'selenium-server': 'Selenium component for running Selenium-RC and Selenium-Grid'}
+{'jimfs': 'An in-memory file system for Java 7+'}
+{'trove4j': 'The Trove library provides high speed regular and primitive collections for Java.'}
+{'client': 'A client is an application or system that accesses a service made available by a server.'}
+{'bcel': 'Apache Byte Code Engineering Library, an open-source library for inspecting and manipulating Java byte code files (.class files)'}
+{'transport': 'Do not use. This tag has been used for everything from trucks to network transport layers. Disambiguation required.'}
+{'properties': 'A property, in some object-oriented programming languages, is a special sort of class member, intermediate between a field (or data member) and a method. Properties are read and written like fields, but property reads and writes are (usually) translated to get and set method calls.'}
+{'google-collections': "Google's Core Java Library for Java and Android development."}
+{'findbugs': 'A program which uses static analysis to look for bugs in Java code.'}
+{'itext': 'Library to create and manipulate PDF documents in Java and C#. Use this tag for code using iText versions up to 5.5.x. For iText versions from 7.0.0 onwards a separate tag "itext7" is available.  Remember to also add the tag for the language you\'re using.'}
+{'snakeyaml': 'SnakeYAML is a YAML parser and emitter for the Java programming language.'}
+{'pdfbox': 'The Apache PDFBox library is an open source Java tool for working with PDF documents. This project allows creation of new PDF documents, manipulation of existing documents and the ability to extract content from documents. Apache PDFBox also includes several command line utilities.'}
+{'junit': 'Popular unit testing framework for Java and Scala. The latest version, JUnit 5, supports rich annotation-based and parameterized tests. Consider using in conjunction with the Java or Scala tag to indicate your use case.'}
+{'mongo-java-driver': 'The Java driver for MongoDB'}
+{'swingx': 'Contains extensions to the Java Swing GUI toolkit, including new and enhanced components that provide functionality commonly required by rich client applications.'}
+{'saxon': 'Saxon is an implementation of XSLT, XQuery, XPath, and XSD. In supports the latest W3C standards including XSLT 3.0, XQuery 3.1, XPath 3.1, and XSD 1.1. There are versions for Java, .NET, and C, in both open source and commercial editions. The latest addition to the product set is Saxon-JS, an XSLT runtime which will run in most browsers.'}
+{'json': 'JSON (JavaScript Object Notation) is a serializable data interchange format that is a machine and human readable. Do not use this tag for native JavaScript objects or JavaScript object literals. Before you ask a question, validate your JSON using a JSON validator such as JSONLint (https://jsonlint.com).'}
+{'castor': 'Castor is an open source data binding framework.'}
+{'velocity-tools': 'VelocityTools is an integrated collection of Velocity subprojects and infrastructure to easily, automatically and transparently make these tools available to Velocity templates.'}
+{'asm': 'Assembly language questions. Please tag the processor and/or the instruction set you are using, as well as the assembler, a valid set should be like this: ([assembly] [x86] [gnu-assembler] or [att]). Use the [.net-assembly] tag instead for .NET assemblies, [cil] for .NET assembly language, and for Java bytecode, use the tag java-bytecode-asm instead.'}
+{'spring-boot-starter': 'For questions relating to the Spring Boot Starter POMs.'}
+{'hsqldb': 'HSQLDB (HyperSQL Database) is a relational database management system. It is written in Java.'}
+{'junit-jupiter': 'JUnit Jupiter is the combination of the new programming model and extension model for writing tests and extensions in JUnit 5.'}
+{'mybatis': 'MyBatis is a framework for mapping objects to relational databases with an emphasis on high performance and simplicity. XML descriptors or annotations couple the objects to SQL statements or stored procedures.'}
+{'jboss-logging': 'JBoss Logging is a logging facade library which includes support for internationalized logging by way of an annotated interface mechanism.  These interfaces are designed to be used as input into build tools which generate classes that implement them, using various string translations.'}
+{'cglib': 'CGLib (Code Generation Library) is a run time code generation library for the Java platform licensed under the Apache 2.0 license.'}
+{'retrofit': 'Retrofit is a type-safe REST client for Android and Java by Square, Inc.'}
+{'jackson-databind': 'Use this tag for questions related to jackson-databind library providing the data-binding functionality and tree-model for Jackson.'}
+{'concurrent': 'In computer science, concurrency is a property of systems in which multiple computations can be performed in overlapping time periods. The computations may be executing on multiple cores in the same chip, preemptively time-shared threads on the same processor, or executed on physically separated processors.'}
+{'jdom': 'JDOM is an open source library for working with a Java representation of an XML document. JDOM provides a way to represent that document for easy and efficient reading, manipulation, and writing. It has a straightforward API, is a lightweight and fast, and is optimized for the Java programmer.'}
+{'compiler': 'The tag compiler-construction should be applied to questions concerning the programming of compilers or for questions about the detailed inner workings of compilers. DO NOT USE for questions about *using* specific compilers or compilation errors.'}
+{'colt': 'A set of open source libraries for high-performance scientific computing written in Java and developed at CERN.'}
+{'jackson-dataformat-xml': 'Data format extension for Jackson to offer alternative support for serializing POJOs as XML and deserializing XML as pojos.'}
+{'okhttp': 'An HTTP+HTTP/2 client for Android and Java applications.'}
+{'json-simple': 'JSON.simple is a Java-to-JSON binding API that serializes and deserializes JSON data to and from Java data structures.'}
+{'derby': 'Use this  tag for questions about Apache Derby, an Apache DB subproject. Derby is an open source relational database implemented entirely in Java and available under the Apache License, Version 2.0.'}
+{'threetenbp': 'ThreeTen-Backport is the backport of JSR-310 to Java SE 7. Questions about "java.time" in Java SE 8 should use the [java-time] tag. Only questions specifically about the backport should use this tag.'}
+{'stringtemplate': 'A templating language which strictly enforces model/view separation'}
+{'openjpa': 'OpenJPA is an open source implementation of the Java Persistence API specification. It is an object-relational mapping (ORM) solution for the Java language, which simplifies storing objects in databases. It is open source software distributed under the Apache 2.0 Licence.'}
