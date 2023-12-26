@@ -7,10 +7,12 @@ A Multi-Metric Ranking with Label Correlations Approach for Library Migration Re
 ```
 
 ## Code
-In code folder, you can find all the code that reproduces our paper. Among them, `maven-spider.ipynb` is used to crawl  Java library labels from [Maven Central Repository](https://mvnrepository.com/repos/central). `labelSupport.ipynb` shows how we generate **Label Support (LS)** for every candidate migration rule.
-`wordNet.ipynb` is used to compute semantic similarity between source library and target library. In our paper, this approach was called **MMRLC'**.  In `pos-tagging.ipynb`, we handle data from [TagWiki](https://stackoverflow.com/tags).
-`impact of Label Factor.ipynb` is used to explore what is the impact of the label factor on
-MMRLC and it's the part of **RQ1** of our paper. `labelSupportAll.ipynb` is used to combine our LS metric with He et al.'s four metrics.
+In code folder, you can find all the code that reproduces our paper.</br>
+Among them, `maven-spider.ipynb` is used to crawl  Java library labels from [Maven Central Repository](https://mvnrepository.com/repos/central).</br>
+`labelSupport.ipynb` shows how we generate **Label Support (LS)** for every candidate migration rule.</br>
+`wordNet.ipynb` is used to compute semantic similarity between source and target library. In our paper, this approach was called **MMRLC'**.</br>
+In `pos-tagging.ipynb`, we handle data from [TagWiki](https://stackoverflow.com/tags).</br>
+`impact of Label Factor.ipynb` is used to explore what is the impact of the label factor on MMRLC and it's the part of **RQ1** of our paper. `labelSupportAll.ipynb` is used to combine our LS metric with He et al.'s four metrics.
 
 ## Resources
 All datasets used in paper can be found in resources folder.  **Note**,for every dataset, field **confidence** is the **Hconf** of our paper, the field **confidence2** is our final confidence value, which is the product of **Hconf** and **labelSupport**.
