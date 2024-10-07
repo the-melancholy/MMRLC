@@ -26,3 +26,15 @@ We  explain some  datasets mentioned in the paper here.
 
 ## Other Materials
 To evaluate the performance of MMRLC, we compare it with three other methods. You should be able to see three .csv files directly. The **recommend-output.csv** file is from **[MigrationHelper](https://github.com/hehao98/MigrationHelper)**, and the other two are extracted from it.
+
+## Citation
+```
+@inproceedings{zhang2024multi,
+  title={A Multi-Metric Ranking with Label Correlations Approach for Library Migration Recommendations},
+  author={Zhang, Jiancheng and Luo, Qin and Wu, Peng},
+  booktitle={2024 IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER)},
+  pages={183--191},
+  year={2024},
+  organization={IEEE}
+}
+```
