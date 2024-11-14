@@ -1,6 +1,6 @@
 # MMRLC
 
-MMRLC (short for Multi-Metric Ranking with Label Correlations) is an algorithm which can recommend libraries holistically from the both perspectives. Not only does it mine library migrations from existing software data, MMRLC further leverages label correlations of libraries in Maven Central Repository to make recommendations.
+MMRLC (short for Multi-Metric Ranking with Label Correlations) is an algorithm for recommending libraries holistically from the both perspectives. Not only does it mine library migrations from existing software data, MMRLC further leverages label correlations of libraries in Maven Central Repository to make recommendations.
 More details can be found in our paper:
 ```
 A Multi-Metric Ranking with Label Correlations Approach for Library Migration Recommendations
